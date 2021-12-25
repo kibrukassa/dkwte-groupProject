@@ -6,17 +6,28 @@ Don't Know What To Eat is a web application that randomly selects a restaurant b
 
 ## Technologies Used
 
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+* Java 8
+* Hibernate
+* Spring Framework
+* PostgreSQL
+* Log4J
+* Angular
+* TypeScript
+* HTML
+* CSS
+* Selenium
+* JUnit
+* Google Places API
+* H2
 
 ## Features
 
-List of features ready and TODOs for future development
+* Don't Know What To Eat is a web application that randomly selects a restaurant based on the user address and the boundary specified. 
+* When the user types in the address and clicks on the 'Dine-In' button, the application will randomly select a restaurant for the user. 
+* Users can sign up and log in as a member to leave reviews about the restaurant by clicking the 'Let Go' button after the application chooses a restaurant. 
+* Admins have the authority to delete any relevant/inappropriate reviews.
 
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+
 
 To-do list:
 
